@@ -2,7 +2,7 @@
 
 # xxAI.አርት
 
-* [የፊት-መጨረሻ ኮድ](https://github.com/xxai-art/web)
+የድረ-ገጹ የፊት-መጨረሻ ኮድ ክፍት ምንጭ ነው፣ ትርጉሙን ለማሻሻል ለማገዝ እንኳን ደህና መጡ
 
 * [የፊት-መጨረሻ ኮድ](https://github.com/xxai-art/web)
 * [የቋንቋ ጥቅል ለጣቢያው በአጠቃላይ](https://github.com/xxai-art/web/tree/main/i18n)
