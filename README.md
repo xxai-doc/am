@@ -2,9 +2,9 @@
 
 * [ድርጣቢያ ባለብዙ ቋንቋ ሰነዶች](https://github.com/xxai-doc)
 
-የድረ-ገጹ የፊት-መጨረሻ ኮድ ክፍት ምንጭ ነው፣ ትርጉሙን ለማሻሻል ለማገዝ እንኳን ደህና መጡ
+የድረ-ገጹ ፊት ለፊት ኮድ ክፍት ምንጭ ነው፣ ትርጉሙን ለማሻሻል ለማገዝ እንኳን ደህና መጡ
 
-* [የፊት-መጨረሻ ኮድ](https://github.com/xxai-art/web)
+* [የፊት መስመር ኮድ](https://github.com/xxai-art/web)
 * [የቋንቋ ጥቅል ለጣቢያው በአጠቃላይ](https://github.com/xxai-art/web/tree/main/i18n)
 * [የቋንቋ ጥቅሎች ለመግቢያ ሞጁሎች](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [ድርጣቢያ ባለብዙ ቋንቋ ሰነዶች](https://github.com/xxai-doc)
