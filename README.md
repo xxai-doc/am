@@ -7,3 +7,4 @@
 * [የፊት-መጨረሻ ኮድ](https://github.com/xxai-art/web)
 * [የቋንቋ ጥቅል ለጣቢያው በአጠቃላይ](https://github.com/xxai-art/web/tree/main/i18n)
 * [የቋንቋ ጥቅሎች ለመግቢያ ሞጁሎች](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [ድርጣቢያ ባለብዙ ቋንቋ ሰነዶች](https://github.com/xxai-doc)
