@@ -1,10 +1,10 @@
 <p align="center"><a href="https://xxai.art"><img src="https://cdn.jsdelivr.net/gh/xxai-art/doc/logo.svg"/></a><br/><a href="https://xxai.art"><img src="https://cdn.jsdelivr.net/gh/xxai-art/doc/xxai.svg"/></a></p><p align="center"><a href="https://github.com/xxai-art/doc#readme"><img alt="I18N" src="https://cdn.jsdelivr.net/gh/wactax/img/t.svg"/></a>　<a href="https://groups.google.com/u/0/g/xxai-art"><img alt="Google Groups" src="https://cdn.jsdelivr.net/gh/wactax/img/g-groups.svg"/></a></p>
 
-# xxAI.አርት
+በመጀመሪያ nodejs, [direnv](https://direnv.net) , [bun ን](https://github.com/oven-sh/bun) መጫን ይመከራል እና ከዚያም `direnv allow` ( [.envrc](https://github.com/xxai-art/doc/blob/main/.envrc) ወደ ማውጫው ከገባ በኋላ በራስ-ሰር ይከናወናል)።
 
-የድረ-ገጹ ኮድ ክፍል ክፍት ምንጭ ነው፣ ትርጉሙን ለማሻሻል ለማገዝ እንኳን ደህና መጡ።
+ትርጉሙ፡- የቻይንኛ ትርጉም ወደ ጃፓንኛ፣ ኮሪያኛ፣ እንግሊዝኛ፣ እንግሊዝኛ ወደ ሌሎች ቋንቋዎች ትርጉም ማለት ነው። ቻይንኛ እና እንግሊዝኛን ብቻ መደገፍ ከፈለጉ `zh: en` ብቻ መፃፍ ይችላሉ።
 
-## የፊት-መጨረሻ ኮድ
+ትርጉሙ፡- የቻይንኛ ትርጉም ወደ ጃፓንኛ፣ ኮሪያኛ፣ እንግሊዝኛ፣ እንግሊዝኛ ወደ ሌሎች ቋንቋዎች ትርጉም ማለት ነው። ቻይንኛ እና እንግሊዝኛን ብቻ መደገፍ ከፈለጉ `zh: en` ብቻ መፃፍ ይችላሉ።
 
 * [የፊት-መጨረሻ ኮድ](https://github.com/xxai-art/web)
 * [የቋንቋ ጥቅል ለጣቢያው በአጠቃላይ](https://github.com/xxai-art/web/tree/main/i18n)
@@ -31,15 +31,15 @@
 
 ### የሰነድ ትርጉም አውቶሜሽን መመሪያዎች
 
-ማከማቻ [xxai-art/doc](https://github.com/xxai-art/doc) ይመልከቱ
+የኮድ ማከማቻ [xxai-art/doc](https://github.com/xxai-art/doc) ይመልከቱ
 
-በመጀመሪያ nodejs, [direnv](https://direnv.net) እና [bun ን](https://github.com/oven-sh/bun) መጫን እና ከዚያ ወደ ዳይሬክተሩ ከገቡ በኋላ `direnv allow` ማስኬድ ይመከራል.
+በመጀመሪያ nodejs, [direnv](https://direnv.net) , [bun ን](https://github.com/oven-sh/bun) መጫን ይመከራል እና ከዚያም `direnv allow` ( [.envrc](https://github.com/xxai-art/doc/blob/main/.envrc) ወደ ማውጫው ከገባ በኋላ በራስ-ሰር ይከናወናል)።
 
-ከመጠን በላይ ትላልቅ መጋዘኖች በመቶዎች በሚቆጠሩ ቋንቋዎች የተተረጎሙ እንዳይሆኑ ለእያንዳንዱ ቋንቋ የተለየ ኮድ መጋዘን ፈጠርኩ እና ይህን መጋዘን የሚያከማችበት ድርጅት ፈጠርኩ.
+በመቶዎች በሚቆጠሩ ቋንቋዎች የተተረጎመውን ትልቅ የኮድ መሰረት ለማስቀረት ለእያንዳንዱ ቋንቋ የተለየ የኮድ መሰረት ፈጠርኩ እና የኮድ መሰረቱን የሚያከማች ድርጅት ፈጠርኩ
 
-የአካባቢ ተለዋዋጭ `GITHUB_ACCESS_TOKEN` ማቀናበር እና መፍጠር [.github.coffee ን](https://github.com/xxai-art/doc/blob/main/create.github.coffee) ማሄድ በራስ-ሰር መጋዘኑን ይፈጥራል።
+የአካባቢ ተለዋዋጭ `GITHUB_ACCESS_TOKEN` ማቀናበር እና መፍጠር [.github.coffee](https://github.com/xxai-art/doc/blob/main/create.github.coffee) ማሄድ በራስ-ሰር የኮድ ማከማቻ ይፈጥራል።
 
-እርግጥ ነው, በመጋዘን ውስጥ ማስቀመጥም ይችላሉ.
+እርግጥ ነው, በኮድ መሰረትም ውስጥ ማስቀመጥ ይችላሉ.
 
 የትርጉም ስክሪፕት ማጣቀሻ [run.sh](https://github.com/xxai-art/doc/blob/main/run.sh)
 
@@ -71,4 +71,8 @@ zh: ja ko en
 export https_proxy=http://127.0.0.1:7890 http_proxy=http://127.0.0.1:7890 all_proxy=socks5://127.0.0.1:7890
 ```
 
-የትርጉም ስክሪፕቱ በ `.i18n` ማውጫ ውስጥ የትርጉም መሸጎጫ ያመነጫል፣ እባክዎ በ `git status` ያረጋግጡ እና ተደጋጋሚ ትርጉሞችን ለማስቀረት ወደ ኮድ ማከማቻ ያክሉት።
+የትርጉም ስክሪፕቱ በ `.i18n` ማውጫ ውስጥ የተተረጎመ መሸጎጫ ያመነጫል፣ እባክዎ በ `git status` ያረጋግጡ እና ተደጋጋሚ ትርጉሞችን ለማስቀረት ወደ ኮድ ማከማቻ ያክሉት።
+
+እባክዎን መሸጎጫውን ለማዘመን ትርጉሙን ባሻሻሉ ቁጥር `bunx i18n` ያሂዱ።
+
+ዋናው ጽሑፍ እና ትርጉሙ በተመሳሳይ ጊዜ ከተስተካከሉ መሸጎጫው ግራ ይጋባል፣ ስለዚህ መቀየር ከፈለጉ አንድ ብቻ ማሻሻል ይችላሉ፣ እና መሸጎጫውን ለማዘመን `bunx i18n` ያሂዱ።
