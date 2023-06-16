@@ -1,6 +1,6 @@
 # ቡና_ፕላስ
 
-[@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , በቡና ስክሪፕት አገባብ መሰረት አንዳንድ ባህሪያትን ይጨምሩ, [coffee_plus](./coffee_plus.md) ይመልከቱ.
+[@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , በቡና ስክሪፕት አገባብ መሰረት አንዳንድ ባህሪያትን ያክሉ, [coffee_plus](./coffee_plus.md) ይመልከቱ.
 
 * ተለዋዋጭ ማወጅ
 
