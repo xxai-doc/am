@@ -2,13 +2,13 @@
 
 [@w5/coffee_plus](http://npmjs.com/@w5/coffee_plus) , በቡና ስክሪፕት አገባብ መሰረት አንዳንድ ባህሪያትን ያክሉ, [coffee_plus](./coffee_plus.md) ይመልከቱ.
 
-* ተለዋዋጭ ማወጅ
+## ተለዋዋጭ ማወጅ
 
 ```
 + var1, var2
 ```
 
-* መግለጫ መለያ
+## መግለጫ መለያ
 
 `:$` ከ [svelte](https://svelte.dev/docs#component-format-script-3-$-marks-a-statement-as-reactive) ጋር ጥቅም ላይ ይውላል.
 
@@ -90,7 +90,7 @@ $ : (func = function() {
 });
 ```
 
-* ፈጣን ማስመጣት
+## ፈጣን ማስመጣት
 
 ```
 > zx/globals:
